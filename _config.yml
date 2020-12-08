@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Boring Planet
+title: Project 78
 email: vivek.chandela73@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is an escape route for me. I work on this whenever I have nothing else going on.
@@ -28,7 +28,8 @@ linkedin_username: vivek-chandela-b535a6173
 github_username: vikilleaks
 
 # Build settings
-theme: minima
+# Removed minima theme as it is a gem-based theme. I am using a regular/local theme now.
+# theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
