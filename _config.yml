@@ -22,7 +22,7 @@ author: Vivek Chandela
 title: Project 78
 email: vivek.chandela73@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://vikilleaks.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vikilleaks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: vivekchandela
 github_username: vikilleaks
 
